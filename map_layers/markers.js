@@ -82,11 +82,11 @@ const markers = {
     {
       lake: "qilu",
       header: "Sewage Treatment",
-      body: "Body 2",
+      body:
+        "<p>The Tonghai County Second Sewage Treatment Plant was built to collect and process waste from a nearby planned urban area, as well a number of nearby villages. Processed water is then used to irrigate nearby farms.</p>",
       lat: 24.138931,
       long: 102.720777,
-      image:
-        "<p>The Tonghai County Second Sewage Treatment Plant was built to collect and process waste from a nearby planned urban area, as well a number of nearby villages. Processed water is then used to irrigate nearby farms.</p>",
+      image: "fuxian-wastewater-treatment.png",
       category: "input"
     },
     {
