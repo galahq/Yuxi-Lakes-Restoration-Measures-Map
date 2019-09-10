@@ -24,7 +24,7 @@ const markers = {
       lake: "fuxian",
       header: "Buffer-zone around Lake Fuxian",
       body:
-        "<p>Authorities have instituted a 100m buffer-zone around lake Fuxian, inside of which agriculture, houses, hotels, and other business are banned. Families living and farming within the zone are relocated to apartment communities and provided with a living stipend to compensate them for their lost livelihoods.</p>",
+        "<p>Authorities have instituted a 110m buffer-zone around lake Fuxian, inside of which agriculture, houses, hotels, and other business are banned. Families living and farming within the zone are relocated to apartment communities and provided with a living stipend to compensate them for their lost livelihoods.</p>",
       lat: 24.624338,
       long: 102.960157,
       image: "fuxian-relocation-settlement.png",
@@ -42,7 +42,7 @@ const markers = {
     },
     {
       lake: "Fuxian",
-      header: "Promoting ",
+      header: "Promoting alternative crops",
       body:
         "<p>Production of fertilizer-intensive crops is being discouraged in favor of lower-demand crops including tobacco, lotus, and blueberries. While finding a market for more-expensive organic produce has proved difficult, Yuxi Manor, a cigarette company, is developing bio-control techniques for tobacco growing.</p>",
       lat: 24.628669,
