@@ -132,9 +132,8 @@ for (let i = 0; i < markers["markers"].length; i++) {
     .bindPopup(
       "<h3>" +
         markers["markers"][i]["header"] +
-        "</h3><p>" +
+        "</h3>" +
         markers["markers"][i]["body"] +
-        "</p>" +
         isImage(i),
       { maxWidth: 450 }
     )

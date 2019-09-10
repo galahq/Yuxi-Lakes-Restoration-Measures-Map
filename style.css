@@ -54,3 +54,7 @@ sup {
   margin-bottom: 0.5rem;
   margin-top: 0px;
 }
+
+.leaflet-popup-content {
+  font-size: 0.9rem;
+}
